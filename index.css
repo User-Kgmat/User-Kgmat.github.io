@@ -1,0 +1,113 @@
+#bg {
+    background-color: transparent;
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1920px;
+    height:2160px;
+}
+#bd {
+    background-color: white;
+    position:absolute;
+    right:0px;
+    top:0px;
+    z-index:2;
+    width:1920px;
+    height:75px;
+    border-bottom: 3px;
+    border-color:black;
+
+}
+#logo {
+    width:50px;
+    height:50px;
+    position:inherit;
+    left:0px;
+    top:12.5px;
+}
+.links {
+    position:absolute;
+    top:0px;
+    height:75px;
+    width:200px;
+    border-bottom: 25px;
+    border-bottom-color: black;
+    font-family: Candara;
+    font-size:25px;
+    text-align: center;
+    margin-top: 20px;
+    
+
+}
+#requestBuild {
+left:200px;
+}
+#viewBuilds {
+    left:400px;
+}
+#BudgetSubmit {
+    left: 600px;
+}
+#ContactUs {
+    left: 800px;
+}
+#pcbg {
+    width:1920px;
+    height:1080px;
+    position:absolute;
+    top:75px;
+    left:0px;
+    background-color: black;
+}
+#delta {
+    height: 25px;
+    position:absolute;
+    left:50px;
+    top:25px;
+
+
+}
+#gif1 {
+    position:inherit;
+    left:50px;
+    top:50px;
+    opacity:.2;
+    width:1000px;
+    height:500px;
+    z-index:1;
+
+}
+#centerLogo {
+    position:inherit;
+    left:760px;
+    top:300px;
+    height:400px;
+    width:400px;
+    z-index:2;
+
+}
+#gif2 {
+    position:inherit;
+    left:850px;
+    top:550px;
+    opacity:.2;
+    width:1000px;
+    height:500px;
+    z-index:1;
+}
+#box1 {
+    position:absolute;
+    left:1250px;
+    top:150px;
+    background-color: rgb(2, 2, 2);
+    width:500px;
+    height:300px;
+}
+#budgeting {
+    position:absolute;
+    left:1400px;
+    top:50px;
+    z-index:1;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+}
