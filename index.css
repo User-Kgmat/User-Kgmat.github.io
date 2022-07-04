@@ -212,3 +212,12 @@ left:200px;
     font-family: Arial;
     font-size:200px;
 }
+#bud {
+    position:absolute;
+    left:400px;
+    top:400px;
+    width:700px;
+    height:400px;
+    background-color:white;
+    z-index:3;
+}
